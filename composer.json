@@ -1,0 +1,8 @@
+{
+	"name": "sevenpercent/di-container-interface",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
